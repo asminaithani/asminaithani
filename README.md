@@ -1,9 +1,9 @@
-![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAgRa_iRPdnkGjXmRUIXCNZc7lKnLrWYh7ww&s)
+![MasterHead](https://www.teamitzone.com/wp-content/uploads/2021/11/Website-Design-Company-In-Bangladesh-1.gif)
 
 <h1 align="center">Hi 👋, I'm Asmi Naithani</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif" />
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asminaithani&label=Profile%20views&color=0e75b6&style=flat" alt="asminaithani" /> </p>
 
